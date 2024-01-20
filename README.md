@@ -58,8 +58,8 @@ pip install pycaw
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Wireless-Sound-Control.git
-cd Wireless-Sound-Control
+git clone https://github.com/Aditya-164/Hand-Gesture-Volume-Control---Python.git
+cd Hand-Gesture-Volume-Control---Python
 ```
 
 2. Install dependencies.
